@@ -1,0 +1,22 @@
+[
+    {
+        "company_name": "Corporate Development Bank Limited (CORBL)",
+        "company_email_address": "info@corporatebank.com.np",
+        "company_sector": "Development Banks",
+        "company_permitted_to_trade": "Permitted to Trade: Yes",
+        "company_status": "Status: Active",
+        "date_as_of": "Oct 21, 2024",
+        "Instrument_type": "Equity ( EQ )",
+        "Listing_date": "Jul 3, 2011",
+        "Total_traded_Quantity": "36,377",
+        "Total_Trades": "278",
+        "Previous_day_close_price": "833.00",
+        "High_price/Low_price": "916.30 / 838.90",
+        "52_week_High/52_week_Low": "1,055.00 / 303.00",
+        "Open_price": "849.60",
+        "Close_price*": "914.80",
+        "total_listed_shares": "5,250,000",
+        "total_paidup_value": "525,000,000.00",
+        "market_cap": "4,802,700,000.00"
+    }
+]

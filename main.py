@@ -598,40 +598,40 @@ def find_company_details(driver, company_name, time_out):
         print("Timeout: Market depth data could not be retrieved.")
 
     with open('company_details.json', 'w') as json_file:
-        json.dumps(company_details, indent=4)
+        json.dump(company_details, json_file, indent=4)
 
     with open('profile_text.json', 'w') as json_file:
-        json.dumps(profile_text, indent=4)
+        json.dump(profile_text, json_file, indent=4)
 
     with open('contact.json', 'w') as json_file:
-        json.dumps(contact, indent=4)
+        json.dump(contact, json_file, indent=4)
 
     with open('ownership_structure.json', 'w') as json_file:
-        json.dumps(ownership_structure, indent=4)
+        json.dump(ownership_structure, json_file, indent=4)
 
     with open('board_of_directors.json', 'w') as json_file:
-        json.dumps(board_of_directors, indent=4)
+        json.dump(board_of_directors, json_file, indent=4)
 
     with open('floorsheet.json', 'w') as json_file:
-        json.dumps(floor_sheet, indent=4)
+        json.dump(floor_sheet, json_file, indent=4)
 
     with open('corporate_action.json', 'w') as json_file:
-        json.dumps(corporate_action, indent=4)
+        json.dump(corporate_action, json_file, indent=4)
 
     with open('financials.json', 'w') as json_file:
-        json.dumps(company_financials, indent=4)
+        json.dump(company_financials, json_file, indent=4)
 
     with open('company_agm.json', 'w') as json_file:
-        json.dumps(company_agm, indent=4)
+        json.dump(company_agm, json_file, indent=4)
 
     with open('company_news.json', 'w') as json_file:
-        json.dumps(company_news, indent=4)
+        json.dump(company_news, json_file, indent=4)
 
     with open('dividend.json', 'w') as json_file:
-        json.dumps(dividend, indent=4)
+        json.dump(dividend, json_file, indent=4)
 
     with open('market_depth.json', 'w') as json_file:
-        json.dumps(market_depth, indent=4)
+        json.dump(market_depth, json_file, indent=4)
 
 
 find_company_details(driver, 'CORBL', 10)

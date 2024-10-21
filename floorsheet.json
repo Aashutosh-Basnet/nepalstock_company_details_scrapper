@@ -1,0 +1,2509 @@
+[
+    {
+        "total_trades": "278",
+        "total_quantity": "36,377",
+        "total_amount": "32,509,850.70"
+    },
+    {
+        "SN": "1",
+        "Contract-No.": "2024102103000362",
+        "Buyer": "72",
+        "Seller": "21",
+        "Quantity": "10",
+        "Rate": "849.60",
+        "Amount": "8,496.00"
+    },
+    {
+        "SN": "2",
+        "Contract-No.": "2024102103000394",
+        "Buyer": "28",
+        "Seller": "21",
+        "Quantity": "90",
+        "Rate": "849.60",
+        "Amount": "76,464.00"
+    },
+    {
+        "SN": "3",
+        "Contract-No.": "2024102103000768",
+        "Buyer": "28",
+        "Seller": "11",
+        "Quantity": "30",
+        "Rate": "845.00",
+        "Amount": "25,350.00"
+    },
+    {
+        "SN": "4",
+        "Contract-No.": "2024102103000847",
+        "Buyer": "72",
+        "Seller": "33",
+        "Quantity": "30",
+        "Rate": "860.00",
+        "Amount": "25,800.00"
+    },
+    {
+        "SN": "5",
+        "Contract-No.": "2024102103000852",
+        "Buyer": "72",
+        "Seller": "39",
+        "Quantity": "10",
+        "Rate": "865.00",
+        "Amount": "8,650.00"
+    },
+    {
+        "SN": "6",
+        "Contract-No.": "2024102103001665",
+        "Buyer": "28",
+        "Seller": "34",
+        "Quantity": "200",
+        "Rate": "859.00",
+        "Amount": "171,800.00"
+    },
+    {
+        "SN": "7",
+        "Contract-No.": "2024102103001844",
+        "Buyer": "28",
+        "Seller": "54",
+        "Quantity": "150",
+        "Rate": "859.00",
+        "Amount": "128,850.00"
+    },
+    {
+        "SN": "8",
+        "Contract-No.": "2024102103001845",
+        "Buyer": "28",
+        "Seller": "21",
+        "Quantity": "30",
+        "Rate": "860.00",
+        "Amount": "25,800.00"
+    },
+    {
+        "SN": "9",
+        "Contract-No.": "2024102103002307",
+        "Buyer": "72",
+        "Seller": "38",
+        "Quantity": "150",
+        "Rate": "858.00",
+        "Amount": "128,700.00"
+    },
+    {
+        "SN": "10",
+        "Contract-No.": "2024102103002900",
+        "Buyer": "72",
+        "Seller": "36",
+        "Quantity": "10",
+        "Rate": "856.00",
+        "Amount": "8,560.00"
+    },
+    {
+        "SN": "11",
+        "Contract-No.": "2024102103002961",
+        "Buyer": "72",
+        "Seller": "21",
+        "Quantity": "10",
+        "Rate": "855.00",
+        "Amount": "8,550.00"
+    },
+    {
+        "SN": "12",
+        "Contract-No.": "2024102103003100",
+        "Buyer": "72",
+        "Seller": "41",
+        "Quantity": "10",
+        "Rate": "854.00",
+        "Amount": "8,540.00"
+    },
+    {
+        "SN": "13",
+        "Contract-No.": "2024102103003396",
+        "Buyer": "19",
+        "Seller": "74",
+        "Quantity": "10",
+        "Rate": "841.90",
+        "Amount": "8,419.00"
+    },
+    {
+        "SN": "14",
+        "Contract-No.": "2024102103003561",
+        "Buyer": "19",
+        "Seller": "21",
+        "Quantity": "40",
+        "Rate": "841.90",
+        "Amount": "33,676.00"
+    },
+    {
+        "SN": "15",
+        "Contract-No.": "2024102103003621",
+        "Buyer": "72",
+        "Seller": "4",
+        "Quantity": "10",
+        "Rate": "853.00",
+        "Amount": "8,530.00"
+    },
+    {
+        "SN": "16",
+        "Contract-No.": "2024102103003622",
+        "Buyer": "72",
+        "Seller": "21",
+        "Quantity": "100",
+        "Rate": "853.90",
+        "Amount": "85,390.00"
+    },
+    {
+        "SN": "17",
+        "Contract-No.": "2024102103003623",
+        "Buyer": "72",
+        "Seller": "41",
+        "Quantity": "280",
+        "Rate": "854.00",
+        "Amount": "239,120.00"
+    },
+    {
+        "SN": "18",
+        "Contract-No.": "2024102103003624",
+        "Buyer": "72",
+        "Seller": "57",
+        "Quantity": "114",
+        "Rate": "854.00",
+        "Amount": "97,356.00"
+    },
+    {
+        "SN": "19",
+        "Contract-No.": "2024102103003625",
+        "Buyer": "72",
+        "Seller": "21",
+        "Quantity": "90",
+        "Rate": "855.00",
+        "Amount": "76,950.00"
+    },
+    {
+        "SN": "20",
+        "Contract-No.": "2024102103003626",
+        "Buyer": "72",
+        "Seller": "49",
+        "Quantity": "300",
+        "Rate": "855.00",
+        "Amount": "256,500.00"
+    },
+    {
+        "SN": "21",
+        "Contract-No.": "2024102103003627",
+        "Buyer": "72",
+        "Seller": "21",
+        "Quantity": "70",
+        "Rate": "855.90",
+        "Amount": "59,913.00"
+    },
+    {
+        "SN": "22",
+        "Contract-No.": "2024102103003628",
+        "Buyer": "72",
+        "Seller": "36",
+        "Quantity": "36",
+        "Rate": "856.00",
+        "Amount": "30,816.00"
+    },
+    {
+        "SN": "23",
+        "Contract-No.": "2024102103003684",
+        "Buyer": "72",
+        "Seller": "36",
+        "Quantity": "314",
+        "Rate": "856.00",
+        "Amount": "268,784.00"
+    },
+    {
+        "SN": "24",
+        "Contract-No.": "2024102103003685",
+        "Buyer": "72",
+        "Seller": "21",
+        "Quantity": "100",
+        "Rate": "858.00",
+        "Amount": "85,800.00"
+    },
+    {
+        "SN": "25",
+        "Contract-No.": "2024102103003686",
+        "Buyer": "72",
+        "Seller": "49",
+        "Quantity": "500",
+        "Rate": "858.90",
+        "Amount": "429,450.00"
+    },
+    {
+        "SN": "26",
+        "Contract-No.": "2024102103003687",
+        "Buyer": "72",
+        "Seller": "17",
+        "Quantity": "366",
+        "Rate": "860.00",
+        "Amount": "314,760.00"
+    },
+    {
+        "SN": "27",
+        "Contract-No.": "2024102103003688",
+        "Buyer": "72",
+        "Seller": "45",
+        "Quantity": "90",
+        "Rate": "860.00",
+        "Amount": "77,400.00"
+    },
+    {
+        "SN": "28",
+        "Contract-No.": "2024102103003689",
+        "Buyer": "72",
+        "Seller": "60",
+        "Quantity": "30",
+        "Rate": "860.00",
+        "Amount": "25,800.00"
+    },
+    {
+        "SN": "29",
+        "Contract-No.": "2024102103003725",
+        "Buyer": "19",
+        "Seller": "74",
+        "Quantity": "10",
+        "Rate": "838.90",
+        "Amount": "8,389.00"
+    },
+    {
+        "SN": "30",
+        "Contract-No.": "2024102103004031",
+        "Buyer": "72",
+        "Seller": "45",
+        "Quantity": "200",
+        "Rate": "854.00",
+        "Amount": "170,800.00"
+    },
+    {
+        "SN": "31",
+        "Contract-No.": "2024102103004032",
+        "Buyer": "72",
+        "Seller": "21",
+        "Quantity": "500",
+        "Rate": "855.00",
+        "Amount": "427,500.00"
+    },
+    {
+        "SN": "32",
+        "Contract-No.": "2024102103004041",
+        "Buyer": "72",
+        "Seller": "60",
+        "Quantity": "20",
+        "Rate": "860.00",
+        "Amount": "17,200.00"
+    },
+    {
+        "SN": "33",
+        "Contract-No.": "2024102103004042",
+        "Buyer": "72",
+        "Seller": "58",
+        "Quantity": "10",
+        "Rate": "860.00",
+        "Amount": "8,600.00"
+    },
+    {
+        "SN": "34",
+        "Contract-No.": "2024102103004043",
+        "Buyer": "72",
+        "Seller": "3",
+        "Quantity": "10",
+        "Rate": "862.90",
+        "Amount": "8,629.00"
+    },
+    {
+        "SN": "35",
+        "Contract-No.": "2024102103005150",
+        "Buyer": "13",
+        "Seller": "74",
+        "Quantity": "10",
+        "Rate": "840.00",
+        "Amount": "8,400.00"
+    },
+    {
+        "SN": "36",
+        "Contract-No.": "2024102103005183",
+        "Buyer": "13",
+        "Seller": "78",
+        "Quantity": "100",
+        "Rate": "840.00",
+        "Amount": "84,000.00"
+    },
+    {
+        "SN": "37",
+        "Contract-No.": "2024102103005251",
+        "Buyer": "13",
+        "Seller": "78",
+        "Quantity": "100",
+        "Rate": "840.00",
+        "Amount": "84,000.00"
+    },
+    {
+        "SN": "38",
+        "Contract-No.": "2024102103005319",
+        "Buyer": "13",
+        "Seller": "78",
+        "Quantity": "80",
+        "Rate": "840.00",
+        "Amount": "67,200.00"
+    },
+    {
+        "SN": "39",
+        "Contract-No.": "2024102103005634",
+        "Buyer": "13",
+        "Seller": "78",
+        "Quantity": "10",
+        "Rate": "840.00",
+        "Amount": "8,400.00"
+    },
+    {
+        "SN": "40",
+        "Contract-No.": "2024102103005641",
+        "Buyer": "72",
+        "Seller": "42",
+        "Quantity": "408",
+        "Rate": "856.80",
+        "Amount": "349,574.40"
+    },
+    {
+        "SN": "41",
+        "Contract-No.": "2024102103005642",
+        "Buyer": "72",
+        "Seller": "49",
+        "Quantity": "100",
+        "Rate": "856.80",
+        "Amount": "85,680.00"
+    },
+    {
+        "SN": "42",
+        "Contract-No.": "2024102103005651",
+        "Buyer": "72",
+        "Seller": "95",
+        "Quantity": "500",
+        "Rate": "858.00",
+        "Amount": "429,000.00"
+    },
+    {
+        "SN": "43",
+        "Contract-No.": "2024102103005652",
+        "Buyer": "72",
+        "Seller": "53",
+        "Quantity": "200",
+        "Rate": "860.00",
+        "Amount": "172,000.00"
+    },
+    {
+        "SN": "44",
+        "Contract-No.": "2024102103005653",
+        "Buyer": "72",
+        "Seller": "51",
+        "Quantity": "125",
+        "Rate": "862.00",
+        "Amount": "107,750.00"
+    },
+    {
+        "SN": "45",
+        "Contract-No.": "2024102103005654",
+        "Buyer": "72",
+        "Seller": "28",
+        "Quantity": "275",
+        "Rate": "862.30",
+        "Amount": "237,132.50"
+    },
+    {
+        "SN": "46",
+        "Contract-No.": "2024102103005655",
+        "Buyer": "72",
+        "Seller": "3",
+        "Quantity": "98",
+        "Rate": "862.40",
+        "Amount": "84,515.20"
+    },
+    {
+        "SN": "47",
+        "Contract-No.": "2024102103005656",
+        "Buyer": "72",
+        "Seller": "55",
+        "Quantity": "100",
+        "Rate": "862.80",
+        "Amount": "86,280.00"
+    },
+    {
+        "SN": "48",
+        "Contract-No.": "2024102103005657",
+        "Buyer": "72",
+        "Seller": "21",
+        "Quantity": "300",
+        "Rate": "864.90",
+        "Amount": "259,470.00"
+    },
+    {
+        "SN": "49",
+        "Contract-No.": "2024102103005658",
+        "Buyer": "72",
+        "Seller": "39",
+        "Quantity": "190",
+        "Rate": "865.00",
+        "Amount": "164,350.00"
+    },
+    {
+        "SN": "50",
+        "Contract-No.": "2024102103005659",
+        "Buyer": "72",
+        "Seller": "58",
+        "Quantity": "40",
+        "Rate": "865.00",
+        "Amount": "34,600.00"
+    },
+    {
+        "SN": "51",
+        "Contract-No.": "2024102103005660",
+        "Buyer": "72",
+        "Seller": "42",
+        "Quantity": "50",
+        "Rate": "865.00",
+        "Amount": "43,250.00"
+    },
+    {
+        "SN": "52",
+        "Contract-No.": "2024102103005661",
+        "Buyer": "72",
+        "Seller": "14",
+        "Quantity": "10",
+        "Rate": "866.00",
+        "Amount": "8,660.00"
+    },
+    {
+        "SN": "53",
+        "Contract-No.": "2024102103005662",
+        "Buyer": "72",
+        "Seller": "95",
+        "Quantity": "112",
+        "Rate": "866.00",
+        "Amount": "96,992.00"
+    },
+    {
+        "SN": "54",
+        "Contract-No.": "2024102103005687",
+        "Buyer": "72",
+        "Seller": "38",
+        "Quantity": "63",
+        "Rate": "870.00",
+        "Amount": "54,810.00"
+    },
+    {
+        "SN": "55",
+        "Contract-No.": "2024102103005688",
+        "Buyer": "72",
+        "Seller": "95",
+        "Quantity": "25",
+        "Rate": "870.00",
+        "Amount": "21,750.00"
+    },
+    {
+        "SN": "56",
+        "Contract-No.": "2024102103005693",
+        "Buyer": "72",
+        "Seller": "95",
+        "Quantity": "63",
+        "Rate": "870.00",
+        "Amount": "54,810.00"
+    },
+    {
+        "SN": "57",
+        "Contract-No.": "2024102103005694",
+        "Buyer": "72",
+        "Seller": "56",
+        "Quantity": "10",
+        "Rate": "875.00",
+        "Amount": "8,750.00"
+    },
+    {
+        "SN": "58",
+        "Contract-No.": "2024102103005761",
+        "Buyer": "26",
+        "Seller": "78",
+        "Quantity": "10",
+        "Rate": "858.00",
+        "Amount": "8,580.00"
+    },
+    {
+        "SN": "59",
+        "Contract-No.": "2024102103005811",
+        "Buyer": "72",
+        "Seller": "95",
+        "Quantity": "10",
+        "Rate": "874.00",
+        "Amount": "8,740.00"
+    },
+    {
+        "SN": "60",
+        "Contract-No.": "2024102103006511",
+        "Buyer": "7",
+        "Seller": "4",
+        "Quantity": "55",
+        "Rate": "870.00",
+        "Amount": "47,850.00"
+    },
+    {
+        "SN": "61",
+        "Contract-No.": "2024102103006512",
+        "Buyer": "7",
+        "Seller": "42",
+        "Quantity": "50",
+        "Rate": "872.00",
+        "Amount": "43,600.00"
+    },
+    {
+        "SN": "62",
+        "Contract-No.": "2024102103006513",
+        "Buyer": "7",
+        "Seller": "25",
+        "Quantity": "50",
+        "Rate": "872.90",
+        "Amount": "43,645.00"
+    },
+    {
+        "SN": "63",
+        "Contract-No.": "2024102103006514",
+        "Buyer": "7",
+        "Seller": "95",
+        "Quantity": "115",
+        "Rate": "873.00",
+        "Amount": "100,395.00"
+    },
+    {
+        "SN": "64",
+        "Contract-No.": "2024102103006826",
+        "Buyer": "13",
+        "Seller": "41",
+        "Quantity": "10",
+        "Rate": "861.00",
+        "Amount": "8,610.00"
+    },
+    {
+        "SN": "65",
+        "Contract-No.": "2024102103006933",
+        "Buyer": "28",
+        "Seller": "65",
+        "Quantity": "200",
+        "Rate": "860.00",
+        "Amount": "172,000.00"
+    },
+    {
+        "SN": "66",
+        "Contract-No.": "2024102103006993",
+        "Buyer": "26",
+        "Seller": "58",
+        "Quantity": "10",
+        "Rate": "858.00",
+        "Amount": "8,580.00"
+    },
+    {
+        "SN": "67",
+        "Contract-No.": "2024102103007053",
+        "Buyer": "13",
+        "Seller": "41",
+        "Quantity": "10",
+        "Rate": "844.00",
+        "Amount": "8,440.00"
+    },
+    {
+        "SN": "68",
+        "Contract-No.": "2024102103007334",
+        "Buyer": "72",
+        "Seller": "45",
+        "Quantity": "10",
+        "Rate": "858.00",
+        "Amount": "8,580.00"
+    },
+    {
+        "SN": "69",
+        "Contract-No.": "2024102103007335",
+        "Buyer": "72",
+        "Seller": "65",
+        "Quantity": "300",
+        "Rate": "860.00",
+        "Amount": "258,000.00"
+    },
+    {
+        "SN": "70",
+        "Contract-No.": "2024102103007336",
+        "Buyer": "72",
+        "Seller": "58",
+        "Quantity": "100",
+        "Rate": "860.00",
+        "Amount": "86,000.00"
+    },
+    {
+        "SN": "71",
+        "Contract-No.": "2024102103007337",
+        "Buyer": "72",
+        "Seller": "38",
+        "Quantity": "50",
+        "Rate": "860.00",
+        "Amount": "43,000.00"
+    },
+    {
+        "SN": "72",
+        "Contract-No.": "2024102103007344",
+        "Buyer": "72",
+        "Seller": "56",
+        "Quantity": "500",
+        "Rate": "860.80",
+        "Amount": "430,400.00"
+    },
+    {
+        "SN": "73",
+        "Contract-No.": "2024102103007345",
+        "Buyer": "72",
+        "Seller": "46",
+        "Quantity": "10",
+        "Rate": "870.00",
+        "Amount": "8,700.00"
+    },
+    {
+        "SN": "74",
+        "Contract-No.": "2024102103007558",
+        "Buyer": "71",
+        "Seller": "3",
+        "Quantity": "150",
+        "Rate": "869.90",
+        "Amount": "130,485.00"
+    },
+    {
+        "SN": "75",
+        "Contract-No.": "2024102103007576",
+        "Buyer": "72",
+        "Seller": "46",
+        "Quantity": "90",
+        "Rate": "870.00",
+        "Amount": "78,300.00"
+    },
+    {
+        "SN": "76",
+        "Contract-No.": "2024102103007577",
+        "Buyer": "72",
+        "Seller": "45",
+        "Quantity": "20",
+        "Rate": "870.00",
+        "Amount": "17,400.00"
+    },
+    {
+        "SN": "77",
+        "Contract-No.": "2024102103007578",
+        "Buyer": "72",
+        "Seller": "42",
+        "Quantity": "15",
+        "Rate": "872.00",
+        "Amount": "13,080.00"
+    },
+    {
+        "SN": "78",
+        "Contract-No.": "2024102103007579",
+        "Buyer": "72",
+        "Seller": "45",
+        "Quantity": "14",
+        "Rate": "872.50",
+        "Amount": "12,215.00"
+    },
+    {
+        "SN": "79",
+        "Contract-No.": "2024102103007580",
+        "Buyer": "72",
+        "Seller": "57",
+        "Quantity": "200",
+        "Rate": "872.80",
+        "Amount": "174,560.00"
+    },
+    {
+        "SN": "80",
+        "Contract-No.": "2024102103007581",
+        "Buyer": "72",
+        "Seller": "41",
+        "Quantity": "100",
+        "Rate": "872.90",
+        "Amount": "87,290.00"
+    },
+    {
+        "SN": "81",
+        "Contract-No.": "2024102103007582",
+        "Buyer": "72",
+        "Seller": "95",
+        "Quantity": "155",
+        "Rate": "873.00",
+        "Amount": "135,315.00"
+    },
+    {
+        "SN": "82",
+        "Contract-No.": "2024102103007583",
+        "Buyer": "72",
+        "Seller": "95",
+        "Quantity": "710",
+        "Rate": "874.00",
+        "Amount": "620,540.00"
+    },
+    {
+        "SN": "83",
+        "Contract-No.": "2024102103007584",
+        "Buyer": "72",
+        "Seller": "56",
+        "Quantity": "40",
+        "Rate": "875.00",
+        "Amount": "35,000.00"
+    },
+    {
+        "SN": "84",
+        "Contract-No.": "2024102103007585",
+        "Buyer": "72",
+        "Seller": "41",
+        "Quantity": "20",
+        "Rate": "878.00",
+        "Amount": "17,560.00"
+    },
+    {
+        "SN": "85",
+        "Contract-No.": "2024102103007586",
+        "Buyer": "72",
+        "Seller": "35",
+        "Quantity": "30",
+        "Rate": "878.00",
+        "Amount": "26,340.00"
+    },
+    {
+        "SN": "86",
+        "Contract-No.": "2024102103007587",
+        "Buyer": "72",
+        "Seller": "56",
+        "Quantity": "75",
+        "Rate": "880.00",
+        "Amount": "66,000.00"
+    },
+    {
+        "SN": "87",
+        "Contract-No.": "2024102103007588",
+        "Buyer": "72",
+        "Seller": "58",
+        "Quantity": "33",
+        "Rate": "880.10",
+        "Amount": "29,043.30"
+    },
+    {
+        "SN": "88",
+        "Contract-No.": "2024102103007589",
+        "Buyer": "72",
+        "Seller": "35",
+        "Quantity": "20",
+        "Rate": "881.20",
+        "Amount": "17,624.00"
+    },
+    {
+        "SN": "89",
+        "Contract-No.": "2024102103007590",
+        "Buyer": "72",
+        "Seller": "43",
+        "Quantity": "10",
+        "Rate": "882.30",
+        "Amount": "8,823.00"
+    },
+    {
+        "SN": "90",
+        "Contract-No.": "2024102103007591",
+        "Buyer": "72",
+        "Seller": "95",
+        "Quantity": "208",
+        "Rate": "887.10",
+        "Amount": "184,516.80"
+    },
+    {
+        "SN": "91",
+        "Contract-No.": "2024102103007619",
+        "Buyer": "72",
+        "Seller": "3",
+        "Quantity": "100",
+        "Rate": "887.20",
+        "Amount": "88,720.00"
+    },
+    {
+        "SN": "92",
+        "Contract-No.": "2024102103007623",
+        "Buyer": "72",
+        "Seller": "58",
+        "Quantity": "150",
+        "Rate": "887.20",
+        "Amount": "133,080.00"
+    },
+    {
+        "SN": "93",
+        "Contract-No.": "2024102103007629",
+        "Buyer": "72",
+        "Seller": "50",
+        "Quantity": "100",
+        "Rate": "888.00",
+        "Amount": "88,800.00"
+    },
+    {
+        "SN": "94",
+        "Contract-No.": "2024102103007630",
+        "Buyer": "72",
+        "Seller": "4",
+        "Quantity": "250",
+        "Rate": "890.00",
+        "Amount": "222,500.00"
+    },
+    {
+        "SN": "95",
+        "Contract-No.": "2024102103007631",
+        "Buyer": "72",
+        "Seller": "58",
+        "Quantity": "50",
+        "Rate": "891.00",
+        "Amount": "44,550.00"
+    },
+    {
+        "SN": "96",
+        "Contract-No.": "2024102103007632",
+        "Buyer": "72",
+        "Seller": "14",
+        "Quantity": "10",
+        "Rate": "891.00",
+        "Amount": "8,910.00"
+    },
+    {
+        "SN": "97",
+        "Contract-No.": "2024102103007633",
+        "Buyer": "72",
+        "Seller": "17",
+        "Quantity": "200",
+        "Rate": "891.00",
+        "Amount": "178,200.00"
+    },
+    {
+        "SN": "98",
+        "Contract-No.": "2024102103007634",
+        "Buyer": "72",
+        "Seller": "42",
+        "Quantity": "25",
+        "Rate": "891.00",
+        "Amount": "22,275.00"
+    },
+    {
+        "SN": "99",
+        "Contract-No.": "2024102103007635",
+        "Buyer": "72",
+        "Seller": "42",
+        "Quantity": "100",
+        "Rate": "891.00",
+        "Amount": "89,100.00"
+    },
+    {
+        "SN": "100",
+        "Contract-No.": "2024102103007636",
+        "Buyer": "72",
+        "Seller": "71",
+        "Quantity": "50",
+        "Rate": "891.40",
+        "Amount": "44,570.00"
+    },
+    {
+        "SN": "101",
+        "Contract-No.": "2024102103007637",
+        "Buyer": "72",
+        "Seller": "16",
+        "Quantity": "500",
+        "Rate": "891.40",
+        "Amount": "445,700.00"
+    },
+    {
+        "SN": "102",
+        "Contract-No.": "2024102103007638",
+        "Buyer": "72",
+        "Seller": "29",
+        "Quantity": "100",
+        "Rate": "891.40",
+        "Amount": "89,140.00"
+    },
+    {
+        "SN": "103",
+        "Contract-No.": "2024102103007639",
+        "Buyer": "72",
+        "Seller": "72",
+        "Quantity": "300",
+        "Rate": "891.40",
+        "Amount": "267,420.00"
+    },
+    {
+        "SN": "104",
+        "Contract-No.": "2024102103007640",
+        "Buyer": "72",
+        "Seller": "55",
+        "Quantity": "50",
+        "Rate": "891.40",
+        "Amount": "44,570.00"
+    },
+    {
+        "SN": "105",
+        "Contract-No.": "2024102103007641",
+        "Buyer": "72",
+        "Seller": "58",
+        "Quantity": "20",
+        "Rate": "891.40",
+        "Amount": "17,828.00"
+    },
+    {
+        "SN": "106",
+        "Contract-No.": "2024102103007642",
+        "Buyer": "72",
+        "Seller": "35",
+        "Quantity": "200",
+        "Rate": "892.50",
+        "Amount": "178,500.00"
+    },
+    {
+        "SN": "107",
+        "Contract-No.": "2024102103007649",
+        "Buyer": "72",
+        "Seller": "3",
+        "Quantity": "10",
+        "Rate": "910.30",
+        "Amount": "9,103.00"
+    },
+    {
+        "SN": "108",
+        "Contract-No.": "2024102103007684",
+        "Buyer": "29",
+        "Seller": "60",
+        "Quantity": "10",
+        "Rate": "844.30",
+        "Amount": "8,443.00"
+    },
+    {
+        "SN": "109",
+        "Contract-No.": "2024102103007702",
+        "Buyer": "41",
+        "Seller": "3",
+        "Quantity": "10",
+        "Rate": "906.00",
+        "Amount": "9,060.00"
+    },
+    {
+        "SN": "110",
+        "Contract-No.": "2024102103007744",
+        "Buyer": "72",
+        "Seller": "3",
+        "Quantity": "30",
+        "Rate": "915.00",
+        "Amount": "27,450.00"
+    },
+    {
+        "SN": "111",
+        "Contract-No.": "2024102103007745",
+        "Buyer": "72",
+        "Seller": "14",
+        "Quantity": "10",
+        "Rate": "916.00",
+        "Amount": "9,160.00"
+    },
+    {
+        "SN": "112",
+        "Contract-No.": "2024102103007935",
+        "Buyer": "38",
+        "Seller": "83",
+        "Quantity": "100",
+        "Rate": "897.70",
+        "Amount": "89,770.00"
+    },
+    {
+        "SN": "113",
+        "Contract-No.": "2024102103008031",
+        "Buyer": "41",
+        "Seller": "46",
+        "Quantity": "10",
+        "Rate": "896.00",
+        "Amount": "8,960.00"
+    },
+    {
+        "SN": "114",
+        "Contract-No.": "2024102103008048",
+        "Buyer": "41",
+        "Seller": "50",
+        "Quantity": "10",
+        "Rate": "908.00",
+        "Amount": "9,080.00"
+    },
+    {
+        "SN": "115",
+        "Contract-No.": "2024102103008142",
+        "Buyer": "38",
+        "Seller": "46",
+        "Quantity": "100",
+        "Rate": "890.00",
+        "Amount": "89,000.00"
+    },
+    {
+        "SN": "116",
+        "Contract-No.": "2024102103008265",
+        "Buyer": "72",
+        "Seller": "83",
+        "Quantity": "10",
+        "Rate": "906.00",
+        "Amount": "9,060.00"
+    },
+    {
+        "SN": "117",
+        "Contract-No.": "2024102103008557",
+        "Buyer": "28",
+        "Seller": "10",
+        "Quantity": "10",
+        "Rate": "899.00",
+        "Amount": "8,990.00"
+    },
+    {
+        "SN": "118",
+        "Contract-No.": "2024102103008724",
+        "Buyer": "13",
+        "Seller": "96",
+        "Quantity": "10",
+        "Rate": "845.00",
+        "Amount": "8,450.00"
+    },
+    {
+        "SN": "119",
+        "Contract-No.": "2024102103008739",
+        "Buyer": "41",
+        "Seller": "35",
+        "Quantity": "10",
+        "Rate": "897.00",
+        "Amount": "8,970.00"
+    },
+    {
+        "SN": "120",
+        "Contract-No.": "2024102103009383",
+        "Buyer": "41",
+        "Seller": "22",
+        "Quantity": "10",
+        "Rate": "889.90",
+        "Amount": "8,899.00"
+    },
+    {
+        "SN": "121",
+        "Contract-No.": "2024102103009768",
+        "Buyer": "28",
+        "Seller": "35",
+        "Quantity": "33",
+        "Rate": "880.00",
+        "Amount": "29,040.00"
+    },
+    {
+        "SN": "122",
+        "Contract-No.": "2024102103009788",
+        "Buyer": "41",
+        "Seller": "44",
+        "Quantity": "10",
+        "Rate": "887.00",
+        "Amount": "8,870.00"
+    },
+    {
+        "SN": "123",
+        "Contract-No.": "2024102103009808",
+        "Buyer": "28",
+        "Seller": "35",
+        "Quantity": "43",
+        "Rate": "885.00",
+        "Amount": "38,055.00"
+    },
+    {
+        "SN": "124",
+        "Contract-No.": "2024102103009941",
+        "Buyer": "28",
+        "Seller": "35",
+        "Quantity": "37",
+        "Rate": "880.00",
+        "Amount": "32,560.00"
+    },
+    {
+        "SN": "125",
+        "Contract-No.": "2024102103009988",
+        "Buyer": "72",
+        "Seller": "84",
+        "Quantity": "10",
+        "Rate": "884.90",
+        "Amount": "8,849.00"
+    },
+    {
+        "SN": "126",
+        "Contract-No.": "2024102103010187",
+        "Buyer": "28",
+        "Seller": "84",
+        "Quantity": "17",
+        "Rate": "884.90",
+        "Amount": "15,043.30"
+    },
+    {
+        "SN": "127",
+        "Contract-No.": "2024102103010589",
+        "Buyer": "72",
+        "Seller": "44",
+        "Quantity": "40",
+        "Rate": "881.90",
+        "Amount": "35,276.00"
+    },
+    {
+        "SN": "128",
+        "Contract-No.": "2024102103010590",
+        "Buyer": "72",
+        "Seller": "96",
+        "Quantity": "500",
+        "Rate": "882.00",
+        "Amount": "441,000.00"
+    },
+    {
+        "SN": "129",
+        "Contract-No.": "2024102103010591",
+        "Buyer": "72",
+        "Seller": "42",
+        "Quantity": "50",
+        "Rate": "883.00",
+        "Amount": "44,150.00"
+    },
+    {
+        "SN": "130",
+        "Contract-No.": "2024102103010592",
+        "Buyer": "72",
+        "Seller": "21",
+        "Quantity": "80",
+        "Rate": "883.90",
+        "Amount": "70,712.00"
+    },
+    {
+        "SN": "131",
+        "Contract-No.": "2024102103010593",
+        "Buyer": "72",
+        "Seller": "22",
+        "Quantity": "40",
+        "Rate": "884.00",
+        "Amount": "35,360.00"
+    },
+    {
+        "SN": "132",
+        "Contract-No.": "2024102103010594",
+        "Buyer": "72",
+        "Seller": "84",
+        "Quantity": "23",
+        "Rate": "884.90",
+        "Amount": "20,352.70"
+    },
+    {
+        "SN": "133",
+        "Contract-No.": "2024102103010595",
+        "Buyer": "72",
+        "Seller": "71",
+        "Quantity": "200",
+        "Rate": "885.00",
+        "Amount": "177,000.00"
+    },
+    {
+        "SN": "134",
+        "Contract-No.": "2024102103010596",
+        "Buyer": "72",
+        "Seller": "64",
+        "Quantity": "100",
+        "Rate": "885.00",
+        "Amount": "88,500.00"
+    },
+    {
+        "SN": "135",
+        "Contract-No.": "2024102103010597",
+        "Buyer": "72",
+        "Seller": "42",
+        "Quantity": "1,340",
+        "Rate": "889.90",
+        "Amount": "1,192,466.00"
+    },
+    {
+        "SN": "136",
+        "Contract-No.": "2024102103010598",
+        "Buyer": "72",
+        "Seller": "36",
+        "Quantity": "300",
+        "Rate": "890.00",
+        "Amount": "267,000.00"
+    },
+    {
+        "SN": "137",
+        "Contract-No.": "2024102103010599",
+        "Buyer": "72",
+        "Seller": "41",
+        "Quantity": "30",
+        "Rate": "890.00",
+        "Amount": "26,700.00"
+    },
+    {
+        "SN": "138",
+        "Contract-No.": "2024102103010600",
+        "Buyer": "72",
+        "Seller": "37",
+        "Quantity": "200",
+        "Rate": "890.00",
+        "Amount": "178,000.00"
+    },
+    {
+        "SN": "139",
+        "Contract-No.": "2024102103010601",
+        "Buyer": "72",
+        "Seller": "44",
+        "Quantity": "50",
+        "Rate": "895.00",
+        "Amount": "44,750.00"
+    },
+    {
+        "SN": "140",
+        "Contract-No.": "2024102103010602",
+        "Buyer": "72",
+        "Seller": "10",
+        "Quantity": "10",
+        "Rate": "897.00",
+        "Amount": "8,970.00"
+    },
+    {
+        "SN": "141",
+        "Contract-No.": "2024102103010603",
+        "Buyer": "72",
+        "Seller": "16",
+        "Quantity": "100",
+        "Rate": "899.00",
+        "Amount": "89,900.00"
+    },
+    {
+        "SN": "142",
+        "Contract-No.": "2024102103010604",
+        "Buyer": "72",
+        "Seller": "45",
+        "Quantity": "20",
+        "Rate": "899.00",
+        "Amount": "17,980.00"
+    },
+    {
+        "SN": "143",
+        "Contract-No.": "2024102103010605",
+        "Buyer": "72",
+        "Seller": "16",
+        "Quantity": "100",
+        "Rate": "900.00",
+        "Amount": "90,000.00"
+    },
+    {
+        "SN": "144",
+        "Contract-No.": "2024102103010606",
+        "Buyer": "72",
+        "Seller": "33",
+        "Quantity": "500",
+        "Rate": "900.00",
+        "Amount": "450,000.00"
+    },
+    {
+        "SN": "145",
+        "Contract-No.": "2024102103010607",
+        "Buyer": "72",
+        "Seller": "58",
+        "Quantity": "500",
+        "Rate": "900.00",
+        "Amount": "450,000.00"
+    },
+    {
+        "SN": "146",
+        "Contract-No.": "2024102103010608",
+        "Buyer": "72",
+        "Seller": "58",
+        "Quantity": "150",
+        "Rate": "900.00",
+        "Amount": "135,000.00"
+    },
+    {
+        "SN": "147",
+        "Contract-No.": "2024102103010609",
+        "Buyer": "72",
+        "Seller": "16",
+        "Quantity": "100",
+        "Rate": "901.00",
+        "Amount": "90,100.00"
+    },
+    {
+        "SN": "148",
+        "Contract-No.": "2024102103010610",
+        "Buyer": "72",
+        "Seller": "33",
+        "Quantity": "500",
+        "Rate": "902.00",
+        "Amount": "451,000.00"
+    },
+    {
+        "SN": "149",
+        "Contract-No.": "2024102103010611",
+        "Buyer": "72",
+        "Seller": "14",
+        "Quantity": "10",
+        "Rate": "902.00",
+        "Amount": "9,020.00"
+    },
+    {
+        "SN": "150",
+        "Contract-No.": "2024102103010612",
+        "Buyer": "72",
+        "Seller": "43",
+        "Quantity": "200",
+        "Rate": "902.00",
+        "Amount": "180,400.00"
+    },
+    {
+        "SN": "151",
+        "Contract-No.": "2024102103010613",
+        "Buyer": "72",
+        "Seller": "54",
+        "Quantity": "184",
+        "Rate": "902.50",
+        "Amount": "166,060.00"
+    },
+    {
+        "SN": "152",
+        "Contract-No.": "2024102103010624",
+        "Buyer": "72",
+        "Seller": "16",
+        "Quantity": "500",
+        "Rate": "902.70",
+        "Amount": "451,350.00"
+    },
+    {
+        "SN": "153",
+        "Contract-No.": "2024102103010625",
+        "Buyer": "72",
+        "Seller": "83",
+        "Quantity": "490",
+        "Rate": "903.00",
+        "Amount": "442,470.00"
+    },
+    {
+        "SN": "154",
+        "Contract-No.": "2024102103010626",
+        "Buyer": "72",
+        "Seller": "16",
+        "Quantity": "100",
+        "Rate": "904.00",
+        "Amount": "90,400.00"
+    },
+    {
+        "SN": "155",
+        "Contract-No.": "2024102103010627",
+        "Buyer": "72",
+        "Seller": "71",
+        "Quantity": "100",
+        "Rate": "904.00",
+        "Amount": "90,400.00"
+    },
+    {
+        "SN": "156",
+        "Contract-No.": "2024102103010628",
+        "Buyer": "72",
+        "Seller": "56",
+        "Quantity": "40",
+        "Rate": "905.00",
+        "Amount": "36,200.00"
+    },
+    {
+        "SN": "157",
+        "Contract-No.": "2024102103010629",
+        "Buyer": "72",
+        "Seller": "29",
+        "Quantity": "20",
+        "Rate": "905.00",
+        "Amount": "18,100.00"
+    },
+    {
+        "SN": "158",
+        "Contract-No.": "2024102103010630",
+        "Buyer": "72",
+        "Seller": "16",
+        "Quantity": "100",
+        "Rate": "905.80",
+        "Amount": "90,580.00"
+    },
+    {
+        "SN": "159",
+        "Contract-No.": "2024102103010631",
+        "Buyer": "72",
+        "Seller": "44",
+        "Quantity": "300",
+        "Rate": "906.00",
+        "Amount": "271,800.00"
+    },
+    {
+        "SN": "160",
+        "Contract-No.": "2024102103010632",
+        "Buyer": "72",
+        "Seller": "1",
+        "Quantity": "100",
+        "Rate": "906.30",
+        "Amount": "90,630.00"
+    },
+    {
+        "SN": "161",
+        "Contract-No.": "2024102103010633",
+        "Buyer": "72",
+        "Seller": "46",
+        "Quantity": "10",
+        "Rate": "907.00",
+        "Amount": "9,070.00"
+    },
+    {
+        "SN": "162",
+        "Contract-No.": "2024102103010634",
+        "Buyer": "72",
+        "Seller": "44",
+        "Quantity": "50",
+        "Rate": "907.00",
+        "Amount": "45,350.00"
+    },
+    {
+        "SN": "163",
+        "Contract-No.": "2024102103010635",
+        "Buyer": "72",
+        "Seller": "17",
+        "Quantity": "100",
+        "Rate": "907.00",
+        "Amount": "90,700.00"
+    },
+    {
+        "SN": "164",
+        "Contract-No.": "2024102103010636",
+        "Buyer": "72",
+        "Seller": "50",
+        "Quantity": "90",
+        "Rate": "908.00",
+        "Amount": "81,720.00"
+    },
+    {
+        "SN": "165",
+        "Contract-No.": "2024102103010637",
+        "Buyer": "72",
+        "Seller": "13",
+        "Quantity": "300",
+        "Rate": "910.00",
+        "Amount": "273,000.00"
+    },
+    {
+        "SN": "166",
+        "Contract-No.": "2024102103010638",
+        "Buyer": "72",
+        "Seller": "41",
+        "Quantity": "20",
+        "Rate": "910.00",
+        "Amount": "18,200.00"
+    },
+    {
+        "SN": "167",
+        "Contract-No.": "2024102103010639",
+        "Buyer": "72",
+        "Seller": "42",
+        "Quantity": "230",
+        "Rate": "910.00",
+        "Amount": "209,300.00"
+    },
+    {
+        "SN": "168",
+        "Contract-No.": "2024102103010640",
+        "Buyer": "72",
+        "Seller": "57",
+        "Quantity": "500",
+        "Rate": "910.00",
+        "Amount": "455,000.00"
+    },
+    {
+        "SN": "169",
+        "Contract-No.": "2024102103010641",
+        "Buyer": "72",
+        "Seller": "14",
+        "Quantity": "100",
+        "Rate": "913.00",
+        "Amount": "91,300.00"
+    },
+    {
+        "SN": "170",
+        "Contract-No.": "2024102103010642",
+        "Buyer": "72",
+        "Seller": "96",
+        "Quantity": "1,500",
+        "Rate": "914.00",
+        "Amount": "1,371,000.00"
+    },
+    {
+        "SN": "171",
+        "Contract-No.": "2024102103010643",
+        "Buyer": "72",
+        "Seller": "25",
+        "Quantity": "125",
+        "Rate": "914.00",
+        "Amount": "114,250.00"
+    },
+    {
+        "SN": "172",
+        "Contract-No.": "2024102103010644",
+        "Buyer": "72",
+        "Seller": "19",
+        "Quantity": "125",
+        "Rate": "914.00",
+        "Amount": "114,250.00"
+    },
+    {
+        "SN": "173",
+        "Contract-No.": "2024102103010645",
+        "Buyer": "72",
+        "Seller": "62",
+        "Quantity": "400",
+        "Rate": "914.00",
+        "Amount": "365,600.00"
+    },
+    {
+        "SN": "174",
+        "Contract-No.": "2024102103010646",
+        "Buyer": "72",
+        "Seller": "55",
+        "Quantity": "400",
+        "Rate": "915.00",
+        "Amount": "366,000.00"
+    },
+    {
+        "SN": "175",
+        "Contract-No.": "2024102103010647",
+        "Buyer": "72",
+        "Seller": "38",
+        "Quantity": "350",
+        "Rate": "915.00",
+        "Amount": "320,250.00"
+    },
+    {
+        "SN": "176",
+        "Contract-No.": "2024102103010648",
+        "Buyer": "72",
+        "Seller": "95",
+        "Quantity": "100",
+        "Rate": "915.00",
+        "Amount": "91,500.00"
+    },
+    {
+        "SN": "177",
+        "Contract-No.": "2024102103010649",
+        "Buyer": "72",
+        "Seller": "5",
+        "Quantity": "50",
+        "Rate": "915.00",
+        "Amount": "45,750.00"
+    },
+    {
+        "SN": "178",
+        "Contract-No.": "2024102103010650",
+        "Buyer": "72",
+        "Seller": "14",
+        "Quantity": "40",
+        "Rate": "916.00",
+        "Amount": "36,640.00"
+    },
+    {
+        "SN": "179",
+        "Contract-No.": "2024102103010651",
+        "Buyer": "72",
+        "Seller": "36",
+        "Quantity": "50",
+        "Rate": "916.00",
+        "Amount": "45,800.00"
+    },
+    {
+        "SN": "180",
+        "Contract-No.": "2024102103010652",
+        "Buyer": "72",
+        "Seller": "14",
+        "Quantity": "100",
+        "Rate": "916.00",
+        "Amount": "91,600.00"
+    },
+    {
+        "SN": "181",
+        "Contract-No.": "2024102103010653",
+        "Buyer": "72",
+        "Seller": "32",
+        "Quantity": "50",
+        "Rate": "916.30",
+        "Amount": "45,815.00"
+    },
+    {
+        "SN": "182",
+        "Contract-No.": "2024102103010654",
+        "Buyer": "72",
+        "Seller": "37",
+        "Quantity": "100",
+        "Rate": "916.30",
+        "Amount": "91,630.00"
+    },
+    {
+        "SN": "183",
+        "Contract-No.": "2024102103010655",
+        "Buyer": "72",
+        "Seller": "42",
+        "Quantity": "150",
+        "Rate": "916.30",
+        "Amount": "137,445.00"
+    },
+    {
+        "SN": "184",
+        "Contract-No.": "2024102103010656",
+        "Buyer": "72",
+        "Seller": "58",
+        "Quantity": "75",
+        "Rate": "916.30",
+        "Amount": "68,722.50"
+    },
+    {
+        "SN": "185",
+        "Contract-No.": "2024102103010657",
+        "Buyer": "72",
+        "Seller": "46",
+        "Quantity": "20",
+        "Rate": "916.30",
+        "Amount": "18,326.00"
+    },
+    {
+        "SN": "186",
+        "Contract-No.": "2024102103010670",
+        "Buyer": "96",
+        "Seller": "43",
+        "Quantity": "100",
+        "Rate": "916.30",
+        "Amount": "91,630.00"
+    },
+    {
+        "SN": "187",
+        "Contract-No.": "2024102103010733",
+        "Buyer": "96",
+        "Seller": "58",
+        "Quantity": "500",
+        "Rate": "916.00",
+        "Amount": "458,000.00"
+    },
+    {
+        "SN": "188",
+        "Contract-No.": "2024102103010736",
+        "Buyer": "60",
+        "Seller": "41",
+        "Quantity": "40",
+        "Rate": "916.00",
+        "Amount": "36,640.00"
+    },
+    {
+        "SN": "189",
+        "Contract-No.": "2024102103010737",
+        "Buyer": "60",
+        "Seller": "39",
+        "Quantity": "15",
+        "Rate": "916.30",
+        "Amount": "13,744.50"
+    },
+    {
+        "SN": "190",
+        "Contract-No.": "2024102103010788",
+        "Buyer": "13",
+        "Seller": "41",
+        "Quantity": "10",
+        "Rate": "898.00",
+        "Amount": "8,980.00"
+    },
+    {
+        "SN": "191",
+        "Contract-No.": "2024102103010855",
+        "Buyer": "96",
+        "Seller": "84",
+        "Quantity": "10",
+        "Rate": "915.90",
+        "Amount": "9,159.00"
+    },
+    {
+        "SN": "192",
+        "Contract-No.": "2024102103010856",
+        "Buyer": "96",
+        "Seller": "10",
+        "Quantity": "30",
+        "Rate": "916.30",
+        "Amount": "27,489.00"
+    },
+    {
+        "SN": "193",
+        "Contract-No.": "2024102103010868",
+        "Buyer": "13",
+        "Seller": "13",
+        "Quantity": "90",
+        "Rate": "916.30",
+        "Amount": "82,467.00"
+    },
+    {
+        "SN": "194",
+        "Contract-No.": "2024102103010870",
+        "Buyer": "96",
+        "Seller": "13",
+        "Quantity": "400",
+        "Rate": "916.30",
+        "Amount": "366,520.00"
+    },
+    {
+        "SN": "195",
+        "Contract-No.": "2024102103010934",
+        "Buyer": "28",
+        "Seller": "6",
+        "Quantity": "500",
+        "Rate": "916.00",
+        "Amount": "458,000.00"
+    },
+    {
+        "SN": "196",
+        "Contract-No.": "2024102103010950",
+        "Buyer": "28",
+        "Seller": "95",
+        "Quantity": "500",
+        "Rate": "916.00",
+        "Amount": "458,000.00"
+    },
+    {
+        "SN": "197",
+        "Contract-No.": "2024102103010954",
+        "Buyer": "28",
+        "Seller": "96",
+        "Quantity": "300",
+        "Rate": "916.00",
+        "Amount": "274,800.00"
+    },
+    {
+        "SN": "198",
+        "Contract-No.": "2024102103010971",
+        "Buyer": "71",
+        "Seller": "41",
+        "Quantity": "10",
+        "Rate": "901.10",
+        "Amount": "9,011.00"
+    },
+    {
+        "SN": "199",
+        "Contract-No.": "2024102103011000",
+        "Buyer": "28",
+        "Seller": "42",
+        "Quantity": "50",
+        "Rate": "910.00",
+        "Amount": "45,500.00"
+    },
+    {
+        "SN": "200",
+        "Contract-No.": "2024102103011084",
+        "Buyer": "28",
+        "Seller": "17",
+        "Quantity": "25",
+        "Rate": "910.00",
+        "Amount": "22,750.00"
+    },
+    {
+        "SN": "201",
+        "Contract-No.": "2024102103011124",
+        "Buyer": "60",
+        "Seller": "17",
+        "Quantity": "275",
+        "Rate": "910.00",
+        "Amount": "250,250.00"
+    },
+    {
+        "SN": "202",
+        "Contract-No.": "2024102103011217",
+        "Buyer": "50",
+        "Seller": "96",
+        "Quantity": "153",
+        "Rate": "916.00",
+        "Amount": "140,148.00"
+    },
+    {
+        "SN": "203",
+        "Contract-No.": "2024102103011218",
+        "Buyer": "50",
+        "Seller": "58",
+        "Quantity": "500",
+        "Rate": "916.00",
+        "Amount": "458,000.00"
+    },
+    {
+        "SN": "204",
+        "Contract-No.": "2024102103011219",
+        "Buyer": "50",
+        "Seller": "13",
+        "Quantity": "10",
+        "Rate": "916.30",
+        "Amount": "9,163.00"
+    },
+    {
+        "SN": "205",
+        "Contract-No.": "2024102103011220",
+        "Buyer": "50",
+        "Seller": "50",
+        "Quantity": "100",
+        "Rate": "916.30",
+        "Amount": "91,630.00"
+    },
+    {
+        "SN": "206",
+        "Contract-No.": "2024102103011221",
+        "Buyer": "50",
+        "Seller": "57",
+        "Quantity": "50",
+        "Rate": "916.30",
+        "Amount": "45,815.00"
+    },
+    {
+        "SN": "207",
+        "Contract-No.": "2024102103011222",
+        "Buyer": "50",
+        "Seller": "10",
+        "Quantity": "187",
+        "Rate": "916.30",
+        "Amount": "171,348.10"
+    },
+    {
+        "SN": "208",
+        "Contract-No.": "2024102103011280",
+        "Buyer": "71",
+        "Seller": "41",
+        "Quantity": "10",
+        "Rate": "900.10",
+        "Amount": "9,001.00"
+    },
+    {
+        "SN": "209",
+        "Contract-No.": "2024102103011282",
+        "Buyer": "96",
+        "Seller": "57",
+        "Quantity": "100",
+        "Rate": "905.00",
+        "Amount": "90,500.00"
+    },
+    {
+        "SN": "210",
+        "Contract-No.": "2024102103011283",
+        "Buyer": "96",
+        "Seller": "49",
+        "Quantity": "100",
+        "Rate": "916.00",
+        "Amount": "91,600.00"
+    },
+    {
+        "SN": "211",
+        "Contract-No.": "2024102103011302",
+        "Buyer": "71",
+        "Seller": "41",
+        "Quantity": "10",
+        "Rate": "900.10",
+        "Amount": "9,001.00"
+    },
+    {
+        "SN": "212",
+        "Contract-No.": "2024102103011421",
+        "Buyer": "96",
+        "Seller": "10",
+        "Quantity": "13",
+        "Rate": "916.30",
+        "Amount": "11,911.90"
+    },
+    {
+        "SN": "213",
+        "Contract-No.": "2024102103011422",
+        "Buyer": "96",
+        "Seller": "91",
+        "Quantity": "180",
+        "Rate": "916.30",
+        "Amount": "164,934.00"
+    },
+    {
+        "SN": "214",
+        "Contract-No.": "2024102103011456",
+        "Buyer": "71",
+        "Seller": "95",
+        "Quantity": "1,490",
+        "Rate": "916.30",
+        "Amount": "1,365,287.00"
+    },
+    {
+        "SN": "215",
+        "Contract-No.": "2024102103011474",
+        "Buyer": "71",
+        "Seller": "29",
+        "Quantity": "260",
+        "Rate": "916.30",
+        "Amount": "238,238.00"
+    },
+    {
+        "SN": "216",
+        "Contract-No.": "2024102103011532",
+        "Buyer": "71",
+        "Seller": "41",
+        "Quantity": "10",
+        "Rate": "901.10",
+        "Amount": "9,011.00"
+    },
+    {
+        "SN": "217",
+        "Contract-No.": "2024102103011548",
+        "Buyer": "71",
+        "Seller": "58",
+        "Quantity": "500",
+        "Rate": "916.30",
+        "Amount": "458,150.00"
+    },
+    {
+        "SN": "218",
+        "Contract-No.": "2024102103011643",
+        "Buyer": "8",
+        "Seller": "43",
+        "Quantity": "95",
+        "Rate": "916.00",
+        "Amount": "87,020.00"
+    },
+    {
+        "SN": "219",
+        "Contract-No.": "2024102103011662",
+        "Buyer": "71",
+        "Seller": "41",
+        "Quantity": "10",
+        "Rate": "901.10",
+        "Amount": "9,011.00"
+    },
+    {
+        "SN": "220",
+        "Contract-No.": "2024102103011745",
+        "Buyer": "71",
+        "Seller": "39",
+        "Quantity": "450",
+        "Rate": "901.10",
+        "Amount": "405,495.00"
+    },
+    {
+        "SN": "221",
+        "Contract-No.": "2024102103011746",
+        "Buyer": "13",
+        "Seller": "39",
+        "Quantity": "50",
+        "Rate": "901.00",
+        "Amount": "45,050.00"
+    },
+    {
+        "SN": "222",
+        "Contract-No.": "2024102103011799",
+        "Buyer": "71",
+        "Seller": "43",
+        "Quantity": "200",
+        "Rate": "916.00",
+        "Amount": "183,200.00"
+    },
+    {
+        "SN": "223",
+        "Contract-No.": "2024102103011800",
+        "Buyer": "71",
+        "Seller": "7",
+        "Quantity": "50",
+        "Rate": "916.00",
+        "Amount": "45,800.00"
+    },
+    {
+        "SN": "224",
+        "Contract-No.": "2024102103011839",
+        "Buyer": "13",
+        "Seller": "41",
+        "Quantity": "10",
+        "Rate": "901.00",
+        "Amount": "9,010.00"
+    },
+    {
+        "SN": "225",
+        "Contract-No.": "2024102103013070",
+        "Buyer": "81",
+        "Seller": "43",
+        "Quantity": "50",
+        "Rate": "912.00",
+        "Amount": "45,600.00"
+    },
+    {
+        "SN": "226",
+        "Contract-No.": "2024102103013193",
+        "Buyer": "56",
+        "Seller": "39",
+        "Quantity": "100",
+        "Rate": "911.00",
+        "Amount": "91,100.00"
+    },
+    {
+        "SN": "227",
+        "Contract-No.": "2024102103013194",
+        "Buyer": "56",
+        "Seller": "43",
+        "Quantity": "140",
+        "Rate": "912.00",
+        "Amount": "127,680.00"
+    },
+    {
+        "SN": "228",
+        "Contract-No.": "2024102103013225",
+        "Buyer": "80",
+        "Seller": "43",
+        "Quantity": "10",
+        "Rate": "912.00",
+        "Amount": "9,120.00"
+    },
+    {
+        "SN": "229",
+        "Contract-No.": "2024102103013226",
+        "Buyer": "80",
+        "Seller": "38",
+        "Quantity": "75",
+        "Rate": "912.00",
+        "Amount": "68,400.00"
+    },
+    {
+        "SN": "230",
+        "Contract-No.": "2024102103013227",
+        "Buyer": "80",
+        "Seller": "46",
+        "Quantity": "30",
+        "Rate": "912.00",
+        "Amount": "27,360.00"
+    },
+    {
+        "SN": "231",
+        "Contract-No.": "2024102103013228",
+        "Buyer": "80",
+        "Seller": "58",
+        "Quantity": "40",
+        "Rate": "912.00",
+        "Amount": "36,480.00"
+    },
+    {
+        "SN": "232",
+        "Contract-No.": "2024102103013229",
+        "Buyer": "80",
+        "Seller": "41",
+        "Quantity": "20",
+        "Rate": "913.00",
+        "Amount": "18,260.00"
+    },
+    {
+        "SN": "233",
+        "Contract-No.": "2024102103013230",
+        "Buyer": "80",
+        "Seller": "14",
+        "Quantity": "200",
+        "Rate": "913.70",
+        "Amount": "182,740.00"
+    },
+    {
+        "SN": "234",
+        "Contract-No.": "2024102103013231",
+        "Buyer": "80",
+        "Seller": "6",
+        "Quantity": "125",
+        "Rate": "915.00",
+        "Amount": "114,375.00"
+    },
+    {
+        "SN": "235",
+        "Contract-No.": "2024102103013267",
+        "Buyer": "81",
+        "Seller": "17",
+        "Quantity": "100",
+        "Rate": "906.00",
+        "Amount": "90,600.00"
+    },
+    {
+        "SN": "236",
+        "Contract-No.": "2024102103013268",
+        "Buyer": "71",
+        "Seller": "17",
+        "Quantity": "150",
+        "Rate": "905.00",
+        "Amount": "135,750.00"
+    },
+    {
+        "SN": "237",
+        "Contract-No.": "2024102103013293",
+        "Buyer": "43",
+        "Seller": "6",
+        "Quantity": "90",
+        "Rate": "915.00",
+        "Amount": "82,350.00"
+    },
+    {
+        "SN": "238",
+        "Contract-No.": "2024102103013294",
+        "Buyer": "43",
+        "Seller": "6",
+        "Quantity": "50",
+        "Rate": "915.00",
+        "Amount": "45,750.00"
+    },
+    {
+        "SN": "239",
+        "Contract-No.": "2024102103013338",
+        "Buyer": "22",
+        "Seller": "26",
+        "Quantity": "50",
+        "Rate": "916.00",
+        "Amount": "45,800.00"
+    },
+    {
+        "SN": "240",
+        "Contract-No.": "2024102103013339",
+        "Buyer": "22",
+        "Seller": "34",
+        "Quantity": "475",
+        "Rate": "916.20",
+        "Amount": "435,195.00"
+    },
+    {
+        "SN": "241",
+        "Contract-No.": "2024102103013866",
+        "Buyer": "57",
+        "Seller": "41",
+        "Quantity": "10",
+        "Rate": "908.20",
+        "Amount": "9,082.00"
+    },
+    {
+        "SN": "242",
+        "Contract-No.": "2024102103013940",
+        "Buyer": "57",
+        "Seller": "49",
+        "Quantity": "290",
+        "Rate": "908.20",
+        "Amount": "263,378.00"
+    },
+    {
+        "SN": "243",
+        "Contract-No.": "2024102103013941",
+        "Buyer": "81",
+        "Seller": "49",
+        "Quantity": "10",
+        "Rate": "908.10",
+        "Amount": "9,081.00"
+    },
+    {
+        "SN": "244",
+        "Contract-No.": "2024102103013974",
+        "Buyer": "81",
+        "Seller": "48",
+        "Quantity": "50",
+        "Rate": "908.10",
+        "Amount": "45,405.00"
+    },
+    {
+        "SN": "245",
+        "Contract-No.": "2024102103013981",
+        "Buyer": "81",
+        "Seller": "49",
+        "Quantity": "40",
+        "Rate": "908.10",
+        "Amount": "36,324.00"
+    },
+    {
+        "SN": "246",
+        "Contract-No.": "2024102103014003",
+        "Buyer": "71",
+        "Seller": "25",
+        "Quantity": "10",
+        "Rate": "902.00",
+        "Amount": "9,020.00"
+    },
+    {
+        "SN": "247",
+        "Contract-No.": "2024102103014696",
+        "Buyer": "49",
+        "Seller": "62",
+        "Quantity": "10",
+        "Rate": "904.00",
+        "Amount": "9,040.00"
+    },
+    {
+        "SN": "248",
+        "Contract-No.": "2024102103014697",
+        "Buyer": "81",
+        "Seller": "62",
+        "Quantity": "90",
+        "Rate": "903.00",
+        "Amount": "81,270.00"
+    },
+    {
+        "SN": "249",
+        "Contract-No.": "2024102103015687",
+        "Buyer": "71",
+        "Seller": "62",
+        "Quantity": "40",
+        "Rate": "905.10",
+        "Amount": "36,204.00"
+    },
+    {
+        "SN": "250",
+        "Contract-No.": "2024102103016157",
+        "Buyer": "58",
+        "Seller": "52",
+        "Quantity": "20",
+        "Rate": "912.00",
+        "Amount": "18,240.00"
+    },
+    {
+        "SN": "251",
+        "Contract-No.": "2024102103016177",
+        "Buyer": "58",
+        "Seller": "49",
+        "Quantity": "100",
+        "Rate": "913.00",
+        "Amount": "91,300.00"
+    },
+    {
+        "SN": "252",
+        "Contract-No.": "2024102103016178",
+        "Buyer": "58",
+        "Seller": "16",
+        "Quantity": "110",
+        "Rate": "913.00",
+        "Amount": "100,430.00"
+    },
+    {
+        "SN": "253",
+        "Contract-No.": "2024102103016316",
+        "Buyer": "58",
+        "Seller": "38",
+        "Quantity": "35",
+        "Rate": "911.80",
+        "Amount": "31,913.00"
+    },
+    {
+        "SN": "254",
+        "Contract-No.": "2024102103016965",
+        "Buyer": "49",
+        "Seller": "49",
+        "Quantity": "10",
+        "Rate": "910.00",
+        "Amount": "9,100.00"
+    },
+    {
+        "SN": "255",
+        "Contract-No.": "2024102103017031",
+        "Buyer": "81",
+        "Seller": "41",
+        "Quantity": "10",
+        "Rate": "908.00",
+        "Amount": "9,080.00"
+    },
+    {
+        "SN": "256",
+        "Contract-No.": "2024102103017089",
+        "Buyer": "71",
+        "Seller": "49",
+        "Quantity": "10",
+        "Rate": "910.00",
+        "Amount": "9,100.00"
+    },
+    {
+        "SN": "257",
+        "Contract-No.": "2024102103017090",
+        "Buyer": "71",
+        "Seller": "25",
+        "Quantity": "90",
+        "Rate": "910.90",
+        "Amount": "81,981.00"
+    },
+    {
+        "SN": "258",
+        "Contract-No.": "2024102103017180",
+        "Buyer": "81",
+        "Seller": "34",
+        "Quantity": "25",
+        "Rate": "908.00",
+        "Amount": "22,700.00"
+    },
+    {
+        "SN": "259",
+        "Contract-No.": "2024102103017267",
+        "Buyer": "81",
+        "Seller": "48",
+        "Quantity": "20",
+        "Rate": "908.00",
+        "Amount": "18,160.00"
+    },
+    {
+        "SN": "260",
+        "Contract-No.": "2024102103017297",
+        "Buyer": "81",
+        "Seller": "22",
+        "Quantity": "55",
+        "Rate": "908.00",
+        "Amount": "49,940.00"
+    },
+    {
+        "SN": "261",
+        "Contract-No.": "2024102103017420",
+        "Buyer": "51",
+        "Seller": "22",
+        "Quantity": "100",
+        "Rate": "905.20",
+        "Amount": "90,520.00"
+    },
+    {
+        "SN": "262",
+        "Contract-No.": "2024102103017472",
+        "Buyer": "45",
+        "Seller": "48",
+        "Quantity": "10",
+        "Rate": "901.00",
+        "Amount": "9,010.00"
+    },
+    {
+        "SN": "263",
+        "Contract-No.": "2024102103017568",
+        "Buyer": "45",
+        "Seller": "32",
+        "Quantity": "28",
+        "Rate": "901.00",
+        "Amount": "25,228.00"
+    },
+    {
+        "SN": "264",
+        "Contract-No.": "2024102103017578",
+        "Buyer": "50",
+        "Seller": "58",
+        "Quantity": "30",
+        "Rate": "907.00",
+        "Amount": "27,210.00"
+    },
+    {
+        "SN": "265",
+        "Contract-No.": "2024102103017579",
+        "Buyer": "50",
+        "Seller": "22",
+        "Quantity": "45",
+        "Rate": "908.00",
+        "Amount": "40,860.00"
+    },
+    {
+        "SN": "266",
+        "Contract-No.": "2024102103017580",
+        "Buyer": "50",
+        "Seller": "25",
+        "Quantity": "13",
+        "Rate": "908.00",
+        "Amount": "11,804.00"
+    },
+    {
+        "SN": "267",
+        "Contract-No.": "2024102103017581",
+        "Buyer": "50",
+        "Seller": "34",
+        "Quantity": "50",
+        "Rate": "910.00",
+        "Amount": "45,500.00"
+    },
+    {
+        "SN": "268",
+        "Contract-No.": "2024102103017582",
+        "Buyer": "50",
+        "Seller": "6",
+        "Quantity": "25",
+        "Rate": "911.00",
+        "Amount": "22,775.00"
+    },
+    {
+        "SN": "269",
+        "Contract-No.": "2024102103017583",
+        "Buyer": "50",
+        "Seller": "16",
+        "Quantity": "90",
+        "Rate": "911.00",
+        "Amount": "81,990.00"
+    },
+    {
+        "SN": "270",
+        "Contract-No.": "2024102103017584",
+        "Buyer": "50",
+        "Seller": "38",
+        "Quantity": "215",
+        "Rate": "911.80",
+        "Amount": "196,037.00"
+    },
+    {
+        "SN": "271",
+        "Contract-No.": "2024102103017585",
+        "Buyer": "50",
+        "Seller": "34",
+        "Quantity": "15",
+        "Rate": "911.80",
+        "Amount": "13,677.00"
+    },
+    {
+        "SN": "272",
+        "Contract-No.": "2024102103017586",
+        "Buyer": "50",
+        "Seller": "57",
+        "Quantity": "23",
+        "Rate": "911.90",
+        "Amount": "20,973.70"
+    },
+    {
+        "SN": "273",
+        "Contract-No.": "2024102103017587",
+        "Buyer": "50",
+        "Seller": "22",
+        "Quantity": "100",
+        "Rate": "912.00",
+        "Amount": "91,200.00"
+    },
+    {
+        "SN": "274",
+        "Contract-No.": "2024102103017588",
+        "Buyer": "50",
+        "Seller": "42",
+        "Quantity": "218",
+        "Rate": "912.00",
+        "Amount": "198,816.00"
+    },
+    {
+        "SN": "275",
+        "Contract-No.": "2024102103017589",
+        "Buyer": "50",
+        "Seller": "41",
+        "Quantity": "25",
+        "Rate": "913.00",
+        "Amount": "22,825.00"
+    },
+    {
+        "SN": "276",
+        "Contract-No.": "2024102103017590",
+        "Buyer": "50",
+        "Seller": "41",
+        "Quantity": "15",
+        "Rate": "913.00",
+        "Amount": "13,695.00"
+    },
+    {
+        "SN": "277",
+        "Contract-No.": "2024102103017591",
+        "Buyer": "50",
+        "Seller": "43",
+        "Quantity": "136",
+        "Rate": "914.80",
+        "Amount": "124,412.80"
+    },
+    {
+        "SN": "278",
+        "Contract-No.": "2024102103017988",
+        "Buyer": "29",
+        "Seller": "43",
+        "Quantity": "20",
+        "Rate": "914.80",
+        "Amount": "18,296.00"
+    }
+]
